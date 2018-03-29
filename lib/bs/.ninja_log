@@ -1,0 +1,11 @@
+# ninja log v5
+0	62	1522320095	re/app.mlast	e58f1825eda3a693
+2	64	1522320095	re/Test.mlast	8d056d4669b3b1e6
+62	73	1522320095	re/app.mlast.d	5d6bbac38a92f539
+64	75	1522320095	re/Test.mlast.d	7b1b5f8aac45ec1d
+1	31	1522320095	re/Test.cmj	59ac5c0734a7f4e0
+1	31	1522320095	/Users/Me/projects/ReasonReactNative/lib/js/re/Test.js	59ac5c0734a7f4e0
+1	31	1522320095	re/Test.cmi	59ac5c0734a7f4e0
+31	63	1522320095	re/app.cmj	10c3ad718065b1e8
+31	63	1522320095	/Users/Me/projects/ReasonReactNative/lib/js/re/app.js	10c3ad718065b1e8
+31	63	1522320095	re/app.cmi	10c3ad718065b1e8
